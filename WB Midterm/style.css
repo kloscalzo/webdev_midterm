@@ -1,0 +1,110 @@
+a {
+    text-decoration: none;
+}
+h1 {
+    color: lightgrey;
+    letter-spacing: 28px;
+    font-weight: bold;
+    font-size: 70px;
+    padding-top: 1cm;
+    font-family: 'Orbitron', sans-serif;
+}
+h2 {
+    font-size: 30px;
+     margin-top:auto;
+     margin-bottom:auto;
+}
+p {
+    font-family: 'Orbitron', sans-serif;
+}
+#container {
+    width: 100%;
+}
+
+.center {
+    margin: auto;
+    display: inline-block;
+    background-color: lightgrey;
+    border: 15px solid black;
+    width: auto;
+    height: auto;
+    padding:20px;
+    margin-top: 500px;
+    font-family: 'Orbitron', sans-serif;
+    font-weight: bold;
+}
+.textbox {
+    background-color: lightgrey;
+    width: 50%;
+    height: auto;
+    border: 12px solid black;
+    padding: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 640px;
+    font-family: 'Neuton', serif;
+    line-height: 1.5;
+    font-size: 18.5px;
+    border-radius: 30px;
+}
+.back {
+    position: absolute;
+    bottom: 50%;
+    background-color: lightgrey;
+    width: auto;
+    height: auto;
+    border: 2px solid black;
+    padding: 10px;
+    font-family: 'Neuton', serif;
+    line-height: 1.5;
+    font-size: 20px;
+    float: left;
+    font-family: 'Orbitron', sans-serif;
+    font-weight: bold;
+    color: black;
+    border-radius: 5px;
+}
+.next {
+    vertical-align: middle;
+    float: right;
+    background-color: lightgrey;
+    width: auto;
+    height: auto;
+    border: 2px solid black;
+    padding: 10px;
+    font-family: 'Neuton', serif;
+    line-height: 1.5;
+    font-size: 20x;
+    font-family: 'Orbitron', sans-serif;
+    font-weight: bold;
+    color: black;
+    border-radius: 5px;
+}
+
+.option1{
+    background-color: ghostwhite;
+    height: auto;
+    border: 5px solid black;
+    padding: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:20px;
+    margin-bottom:10px;
+    font-family: 'Neuton', serif;
+    line-height: 1.5;
+    font-size: 16.5px;
+    border-radius: 10px;
+}
+
+.option2{
+    background-color: ghostwhite;
+    height: auto;
+    border: 5px solid black;
+    padding: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Neuton', serif;
+    line-height: 1.5;
+    font-size: 16.5px;
+    border-radius: 10px;
+}
